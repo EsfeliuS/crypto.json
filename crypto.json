@@ -1,6 +1,6 @@
  {
   "crypto":[
-  ["BoZocoin","200"],
+  ["BoZocoin","201"],
   ["MTC","279"],
   ["Bitcoin","2102"],
   ["Ethereum","1081"],
@@ -10,6 +10,6 @@
   ["Dogecoin","87"],
   ["XRP","34"],
   ["Shiba","38"],
-  ["Polygon","31"]
+  ["Polygon","32"]
 ]  
 }
