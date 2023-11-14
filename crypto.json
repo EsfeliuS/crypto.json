@@ -2,15 +2,15 @@
   "crypto":[
   ["BoZocoin","249"],
   ["MTC","275"],
-  ["Bitcoin","2142"],
-  ["Ethereum","1120"],
+  ["Bitcoin","2140"],
+  ["Ethereum","1117"],
   ["Tether","1028"],
   ["BNB","174"],
   ["Monero","152"],
   ["Dogecoin","105"],
-  ["XRP","47"],
-  ["Shiba","32"],
-  ["Polygon","45"],
+  ["XRP","44"],
+  ["Shiba","29"],
+  ["Polygon","42"],
   ["MATIC","2"]
 ]  
 }
