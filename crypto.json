@@ -1,16 +1,16 @@
  {
   "crypto":[
-  ["BoZocoin","179"],
-  ["MTC","272"],
-  ["Bitcoin","2152"],
-  ["Ethereum","1113"],
-  ["Tether","1033"],
-  ["BNB","182"],
-  ["Monero","162"],
-  ["Dogecoin","127"],
-  ["XRP","56"],
-  ["Shiba","44"],
-  ["Polygon","41"],
-  ["MATIC","23"]
+  ["BoZocoin","180"],
+  ["MTC","273"],
+  ["Bitcoin","2153"],
+  ["Ethereum","1114"],
+  ["Tether","1035"],
+  ["BNB","180"],
+  ["Monero","160"],
+  ["Dogecoin","125"],
+  ["XRP","54"],
+  ["Shiba","42"],
+  ["Polygon","40"],
+  ["MATIC","21"]
 ]  
 }
